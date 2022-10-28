@@ -1,0 +1,22 @@
+---
+title: DOCTITLE
+nav_order: 2
+---
+
+# DOCTITLE
+{: .no_toc }
+
+This version adopted 21.09.2022
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+## 1. SECTIONHEADER
+
+CONTENT
